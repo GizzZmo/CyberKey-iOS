@@ -7,6 +7,7 @@
 
 import Foundation
 import AVFoundation
+import Accelerate
 import Combine
 
 @MainActor
